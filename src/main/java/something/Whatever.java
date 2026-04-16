@@ -23,7 +23,6 @@ public class Whatever implements Serializable {
                                             if (whatIf) {
                                                 if (whatIf) {
                                                     System.out.println(what);
-                                                    System.out.println(what);
                                                 }
                                             }
                                         }
